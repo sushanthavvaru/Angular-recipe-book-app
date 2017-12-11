@@ -26,6 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-##About Application
+## About Application
 
-Application is created using Angular CLI. Register into the application and then Login. Press Manage and Fetch data to get the recipe's from the Firebase database if there are more. Once you add or delete recepies you can save data by pressing manage again. All the users have access to the same database, so be careful and do not to delete all the database  records. Feel free to add more receipes. The Application is very fast using modular and lazy loading approch. Contact sushantha.a@gmail.com for any furhter questions.
+TApplication is created using Angular CLI. Register into the application and then Login. Press Manage and Fetch data to get the recipe's from the Firebase database if there are more. Once you add or delete recepies you can save data by pressing manage again. All the users have access to the same database, so be careful and do not to delete all the database  records. Feel free to add more receipes. The Application is very fast using modular and lazy loading approch. Contact sushantha.a@gmail.com for any furhter questions.
